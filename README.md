@@ -1,1 +1,1 @@
-# Decision-Making-Project---Customer-Segmentation
+# Decision Making Project | Customer Segmentation
